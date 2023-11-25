@@ -11,5 +11,14 @@ Sou um aluno curioso, incessantemente estou em busca por novas ideias e estraté
 * ⮩ 🖌 Adobe Illustrator 
 * ⮩ 🖥 Adobe Premiere 
 
+- ⮩ 📷 Adobe Photoshop
+- ⮩ 🔮✨ Adobe After Effects
+- ⮩ 🖌 Adobe Illustrator 
+- ⮩ 🖥 Adobe Premiere 
+
++ ⮩ 📷 Adobe Photoshop
++ ⮩ 🔮✨ Adobe After Effects
++ ⮩ 🖌 Adobe Illustrator 
++ ⮩ 🖥 Adobe Premiere 
 
 -->Pro
