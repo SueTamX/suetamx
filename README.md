@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## Poft
-
-### Monkey
+## Who am I? I am Mateus, I'm Graphic Designer | Motion Designer (Animator) | Illustrator
 
 <!--
 **SueTamX/suetamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
