@@ -6,10 +6,10 @@ Sou um aluno curioso, incessantemente estou em busca por novas ideias e estraté
 
 # Programas no qual eu trabalho e estudo:
 
-➟ 📷 Adobe Photoshop
-➟ 🔮✨ Adobe After Effects
-➟ 🖌 Adobe Illustrator 
-➟ 🖥 Adobe Premiere 
+⮩ 📷 Adobe Photoshop
+⮩ 🔮✨ Adobe After Effects
+⮩ 🖌 Adobe Illustrator 
+⮩ 🖥 Adobe Premiere 
 
 
 -->Pro
