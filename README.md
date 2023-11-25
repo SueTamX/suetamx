@@ -2,10 +2,7 @@
 
 ### Who am I? I am Mateus, I'm Graphic Designer | Motion Designer (Animator) | Illustrator
 
-<!--
-**SueTamX/suetamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Sou um aluno curioso, incessantemente estou em busca por novas ideias e estratégias que permitam uma compressão mais profunda da dor, angústia e perspectiva do cliente. A exploração de novas ideias não apenas enriquece meu repertório criativo, contudo também reforça minhas skills para entender melhor quem me procura.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
