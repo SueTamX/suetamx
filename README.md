@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/SueTamX/c8fec091738bc027a9a3ca7192c61548/raw/e9805e0207c4cdbaafedd48eaff2b92085b311ba/githubprofileportfolio.svg"/>
+<img align="right" height="800em" src="https://raw.githubusercontent.com/gist/SueTamX/c8fec091738bc027a9a3ca7192c61548/raw/e9805e0207c4cdbaafedd48eaff2b92085b311ba/githubprofileportfolio.svg"/>
 
 # Hi there 👋
 
