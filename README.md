@@ -14,5 +14,5 @@ Sou um aluno curioso, incessantemente estou em busca por novas ideias e estraté
 * ⮩ 🖥 Adobe Premiere 
 
 <div> 
-  <a href="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-" target="_blank"><img src="badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"><a/>
+  <img src="badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank">
 </div>
