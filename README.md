@@ -13,4 +13,6 @@ Sou um aluno curioso, incessantemente estou em busca por novas ideias e estraté
 * ⮩ 🖌 Adobe Illustrator 
 * ⮩ 🖥 Adobe Premiere 
 
--->Pro
+<div> 
+  <a href="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-" target="_blank"><img src="badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"><a/>
+</div>
